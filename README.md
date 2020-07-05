@@ -73,3 +73,9 @@
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_GymCloth/" style="color:#0FA678">[Programmers] 체육복</a>
 
 <br>
+
+### 연습문제
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Division/" style="color:#0FA678">[Programmers] 체육복</a>
+
+<br>
