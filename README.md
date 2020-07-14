@@ -1,6 +1,7 @@
 # Programmers
 
 [2020.06.14] 시작!
+[2020.07.14] 파일이 많아져 README 파일이 보이지 않아 폴더로 묶었읍니다.
 
 매일 <a href="https://programmers.co.kr/learn/challenges" style="color:#0FA678" target="_blank">프로그래머스</a> 에 있는 코딩 테스트 한 문제 씩 풀기
 
