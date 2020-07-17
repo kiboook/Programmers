@@ -79,13 +79,13 @@
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Knumber/" style="color:#0FA678">[Programmers] K번째 수</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_MakeBigNum/" style="color:#0FA678">[Programmers] 큰 수 만들기</a>
-
 <br>
 
 ### 탐욕법
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_GymCloth/" style="color:#0FA678">[Programmers] 체육복</a>
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_MakeBigNum/" style="color:#0FA678">[Programmers] 큰 수 만들기</a>
 
 <br>
 
