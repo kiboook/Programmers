@@ -12,7 +12,6 @@ def solution(clothes):
 	return answer - 1
 
 
-clothes = [['yellow_hat', 'headgear'], ['blue_sunglasses', 'eyewear'], ['green_turban', 'headgear'], ['crow_mask', 'face'], ['smoky_makeup', 'face'], ['qqqq', 'face'], ['vvv', 'eyewear']]
 # clothes = [['crow_mask', 'face'], ['blue_sunglasses', 'faces'], ['smoky_makeup', 'facee']]
 # clothes = [['crow_mask', 'face']]
 print(solution(clothes))
