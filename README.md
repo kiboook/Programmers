@@ -150,4 +150,6 @@
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_CorrectPart/" style="color:#0FA678">[Programmers] 올바른 괄호</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_NextNum/" style="color:#0FA678">[Programmers] 다음 큰 숫자</a>
+
 <br>
