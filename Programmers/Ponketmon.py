@@ -3,10 +3,13 @@ def solution(nums):
 
 
 def solution(nums):
-	if len(nums) / 2 < len(set(nums)):
-		answer = len(nums) // 2
+	half_len = len(nums) // 2
+	set_len = len(set(nums))
+
+	if half_len < set_len:
+		answer = half_len
 	else:
-		answer = len(set(nums))
+		answer = set_len
 
 	return answer
 
