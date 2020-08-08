@@ -168,4 +168,6 @@
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Fibonacci/" style="color:#0FA678">[Programmers] 피보나치 수</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_ArrayMulti/" style="color:#0FA678">[Programmers] 행렬의 곱셈</a>
+
 <br>
