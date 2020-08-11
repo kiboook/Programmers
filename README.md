@@ -65,7 +65,7 @@
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Keypad/" style="color:#0FA678">[Programmers] 키패드 누르기</a>
 
-<a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax/" style="color:#0FA678">[Programmers] 수식 최대화</a>
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax/" style="color:#0FA678">[Programmers] 수식 최대화</a>, <a href="https://nam-ki-bok.github.io/quiz/Quiz_FomulaMax2/" style="color:#0FA678">[Programmers] 수식 최대화 코드 분석</a>
 
 <br>
 
