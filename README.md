@@ -7,6 +7,12 @@
 
 <br>
 
+### 2017 팁스타운
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_RemoveBuddy/" style="color:#0FA678">[Programmers] 짝지어 제거하기</a>
+
+<br>
+
 ### Summer/Winter Coding(~2018)
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Skill/" style="color:#0FA678">[Programmers] 스킬트리</a>
