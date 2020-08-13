@@ -11,6 +11,8 @@
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_RemoveBuddy/" style="color:#0FA678">[Programmers] 짝지어 제거하기</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_ExpectedGame/" style="color:#0FA678">[Programmers] 예상 대진표</a>
+
 <br>
 
 ### Summer/Winter Coding(~2018)
