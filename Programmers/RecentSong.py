@@ -17,7 +17,7 @@ def get_time(start, end):
 
 def solution(m, musicinfos):
 	song = dict()
-	info = [val.split(',') for val in musicinfos]
+	info = [val.split(',') for val in musicinfos]  # 시작시간, 종료시간, 노래이름, 멜로디로 나누기
 	m = m.replace('C#', '$')  #  #이 붙은 멜로디는 계산하기 편하게 치환한다
 	m = m.replace('D#', '%')
 	m = m.replace('F#', '^')
@@ -33,10 +33,8 @@ def solution(m, musicinfos):
 
 		runtime = get_time(val[0], val[1])
 		melody = ''
-		time = 0
-		while time < runtime:  #  재생 시간에 맞춰 멜로디 작성
-			melody += val[3][time % len(val[3])]
-			time += 1
+		for idx in range(runtime):  #  재생 시간만큼 멜로디를 담는다
+			melody += val[3][idx % len(val[3])]
 		song[val[2]] = melody
 
 	answer = list()
