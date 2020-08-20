@@ -1,3 +1,20 @@
+# def get_time(start, end):
+# 	start_time = start.split(':')
+# 	start_h = int(start_time[0])
+# 	start_m = int(start_time[1])
+#
+# 	end_time = end.split(':')
+# 	end_h = int(end_time[0])
+# 	end_m = int(end_time[1])
+#
+# 	if start_m <= end_m:  # 시작 분 보다 종료 분이 더 크거나 같 경우, 작은 경우
+# 		runtime = (end_h - start_h) * 60 + (end_m - start_m)
+# 	else:
+# 		runtime = (end_h - start_h - 1) * 60 + (60 - start_m) + end_m
+#
+# 	return runtime
+
+
 def get_time(start, end):
 	start_time = start.split(':')
 	start_h = int(start_time[0])
@@ -7,12 +24,7 @@ def get_time(start, end):
 	end_h = int(end_time[0])
 	end_m = int(end_time[1])
 
-	if start_m <= end_m:  # 시작 분 보다 종료 분이 더 크거나 같 경우, 작은 경우
-		runtime = (end_h - start_h) * 60 + (end_m - start_m)
-	else:
-		runtime = (end_h - start_h - 1) * 60 + (60 - start_m) + end_m
-
-	return runtime
+	return (end_h * 60 + end_m) - (start_h * 60 + start_m)
 
 
 def solution(m, musicinfos):
@@ -53,6 +65,9 @@ def solution(m, musicinfos):
 		for val in answer:
 			if longest == val[1]:
 				return val[0]
+
+
+
 
 m = 'ABCDEFG'
 musicinfos = ['12:00,12:14,HELLO,CDEFGAB', '13:00,14:20,WORLDEST,ABCDEFG']  # WORDEST 출력
