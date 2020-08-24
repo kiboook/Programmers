@@ -2,6 +2,14 @@
 
 [2020.06.14] 시작!<br>
 [2020.07.14] 파일이 많아져 README 파일이 보이지 않아 폴더로 묶었읍니다.
+
+<img src="https://nam-ki-bok.github.io/assets/images/programmers/myskill2.png" width="500"/>
+
+[2020.08.24]
+
+LEVEL 1, 2 문제를 모두 풀고 스킬 체크 시험을 통해 LEVEL 2 까지 인증했다.
+
+LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려워져서 백준으로 여러가지 자료구조 활용을 연습하고 다시 도전해야겠다..
 <br>
 
 ### 2017 팁스타운
