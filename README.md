@@ -118,9 +118,15 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Carpet/" style="color:#0FA678">[Programmers] 카펫</a>
 
+### 그래프
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_farNode/" style="color:#0FA678">[Programmers] 가장 먼 노드</a>
+
 ### DFS / BFS
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_TargetNum/" style="color:#0FA678">[Programmers] 타겟넘버</a>
+
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Network/" style="color:#0FA678">[Programmers] 네트워크</a>
 
 ### 정렬
 
