@@ -24,6 +24,8 @@ LEVEL 3 시험도 봤는데 지금까지 풀었던 문제들 보다 확 어려�
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Coordinate/" style="color:#0FA678">[Programmers] 방문 길이</a>
 
+<a href="https://nam-ki-bok.github.io/quiz/Quiz_Distance/" style="color:#0FA678">[Programmers] 방문 길이 2</a>
+
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_PrimeNum/" style="color:#0FA678">[Programmers] 소수 만들기</a>
 
 <a href="https://nam-ki-bok.github.io/quiz/Quiz_Jump/" style="color:#0FA678">[Programmers] 점프와 순간이동</a>
